@@ -29,9 +29,30 @@ class ItineraryBuilder:
     """
     A class to build concert itineraries. 
     """
+
+    concerts = []
+    artists = []
     
-    def build_itinerary(self, concerts):
+    def _get_artists_without_concert(self):
+        concerts = self.concerts.copy()
+        aritsts = self.artists.copy()
+
+        for concert in concerts:
+            concert: Concert
+            if concert.artist in aritsts:
+                aritsts.remove(concert.artist)
+        
         return []
+
+
+    def build_itinerary(self, concerts, artists=None):
+        self.concerts = concerts
+        self.artists = artists
+
+
+        return {
+            "artists_without_concert": self._get_artists_without_concert()
+        }
 
 
 if __name__ == "__main__":

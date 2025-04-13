@@ -1,0 +1,352 @@
+{
+  "experiment_start": "2025-04-13T16:55:37",
+  "test_runs": [
+    {
+      "timestamp": "2025-04-13T17:48:45.995689",
+      "results": {
+        "total": 3,
+        "failures": 0,
+        "errors": 0,
+        "skipped": 0,
+        "success": true,
+        "details": "test_manual_1 (test.ItineraryBuilderTest.test_manual_1)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest.test_manual_2) ... ok\ntest_manual_3 (test.ItineraryBuilderTest.test_manual_3) ... ok\n\n----------------------------------------------------------------------\nRan 3 tests in 0.000s\n\nOK\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T17:49:55.202599",
+      "results": {
+        "total": 3,
+        "failures": 0,
+        "errors": 0,
+        "skipped": 0,
+        "success": true,
+        "details": "test_manual_1 (test.ItineraryBuilderTest.test_manual_1)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest.test_manual_2) ... ok\ntest_manual_3 (test.ItineraryBuilderTest.test_manual_3) ... ok\n\n----------------------------------------------------------------------\nRan 3 tests in 0.000s\n\nOK\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T17:50:11.851119",
+      "results": {
+        "total": 3,
+        "failures": 0,
+        "errors": 0,
+        "skipped": 0,
+        "success": true,
+        "details": "test_manual_1 (test.ItineraryBuilderTest.test_manual_1)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest.test_manual_2) ... ok\ntest_manual_3 (test.ItineraryBuilderTest.test_manual_3) ... ok\n\n----------------------------------------------------------------------\nRan 3 tests in 0.000s\n\nOK\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T17:50:56.152548",
+      "results": {
+        "total": 3,
+        "failures": 0,
+        "errors": 0,
+        "skipped": 0,
+        "success": true,
+        "details": "test_manual_1 (test.ItineraryBuilderTest.test_manual_1)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest.test_manual_2) ... ok\ntest_manual_3 (test.ItineraryBuilderTest.test_manual_3) ... ok\n\n----------------------------------------------------------------------\nRan 3 tests in 0.000s\n\nOK\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T17:51:12.332255",
+      "results": {
+        "total": 3,
+        "failures": 0,
+        "errors": 0,
+        "skipped": 0,
+        "success": true,
+        "details": "test_manual_1 (test.ItineraryBuilderTest.test_manual_1)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest.test_manual_2) ... ok\ntest_manual_3 (test.ItineraryBuilderTest.test_manual_3) ... ok\n\n----------------------------------------------------------------------\nRan 3 tests in 0.000s\n\nOK\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T17:51:38.985993",
+      "results": {
+        "total": 3,
+        "failures": 0,
+        "errors": 0,
+        "skipped": 0,
+        "success": true,
+        "details": "test_manual_1 (test.ItineraryBuilderTest.test_manual_1)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest.test_manual_2) ... ok\ntest_manual_3 (test.ItineraryBuilderTest.test_manual_3) ... ok\n\n----------------------------------------------------------------------\nRan 3 tests in 0.000s\n\nOK\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T17:51:47.533526",
+      "results": {
+        "total": 3,
+        "failures": 0,
+        "errors": 0,
+        "skipped": 0,
+        "success": true,
+        "details": "test_manual_1 (test.ItineraryBuilderTest.test_manual_1)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest.test_manual_2) ... ok\ntest_manual_3 (test.ItineraryBuilderTest.test_manual_3) ... ok\n\n----------------------------------------------------------------------\nRan 3 tests in 0.000s\n\nOK\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T17:52:00.192229",
+      "results": {
+        "total": 3,
+        "failures": 0,
+        "errors": 0,
+        "skipped": 0,
+        "success": true,
+        "details": "test_manual_1 (test.ItineraryBuilderTest.test_manual_1)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest.test_manual_2) ... ok\ntest_manual_3 (test.ItineraryBuilderTest.test_manual_3) ... ok\n\n----------------------------------------------------------------------\nRan 3 tests in 0.000s\n\nOK\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T17:52:33.583972",
+      "results": {
+        "total": 3,
+        "failures": 0,
+        "errors": 0,
+        "skipped": 0,
+        "success": true,
+        "details": "test_manual_1 (test.ItineraryBuilderTest.test_manual_1)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest.test_manual_2) ... ok\ntest_manual_3 (test.ItineraryBuilderTest.test_manual_3) ... ok\n\n----------------------------------------------------------------------\nRan 3 tests in 0.000s\n\nOK\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T17:52:54.408246",
+      "results": {
+        "total": 3,
+        "failures": 0,
+        "errors": 0,
+        "skipped": 0,
+        "success": true,
+        "details": "test_manual_1 (test.ItineraryBuilderTest.test_manual_1)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest.test_manual_2) ... ok\ntest_manual_3 (test.ItineraryBuilderTest.test_manual_3) ... ok\n\n----------------------------------------------------------------------\nRan 3 tests in 0.000s\n\nOK\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T17:53:11.811963",
+      "results": {
+        "total": 3,
+        "failures": 0,
+        "errors": 0,
+        "skipped": 0,
+        "success": true,
+        "details": "test_manual_1 (test.ItineraryBuilderTest.test_manual_1)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest.test_manual_2) ... ok\ntest_manual_3 (test.ItineraryBuilderTest.test_manual_3) ... ok\n\n----------------------------------------------------------------------\nRan 3 tests in 0.000s\n\nOK\n"
+      }
+    }
+  ],
+  "file_changes": [],
+  "coverage_reports": [
+    {
+      "timestamp": "2025-04-13T17:48:46.009565",
+      "total_coverage": 53.84615384615385,
+      "file_coverage": {
+        "test.py": {
+          "lines_total": 36,
+          "lines_covered": 16,
+          "lines_missed": 44,
+          "percentage": 44.44444444444444
+        },
+        "main.py": {
+          "lines_total": 25,
+          "lines_covered": 11,
+          "lines_missed": 22,
+          "percentage": 44.0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T17:49:55.207093",
+      "total_coverage": 53.84615384615385,
+      "file_coverage": {
+        "test.py": {
+          "lines_total": 36,
+          "lines_covered": 16,
+          "lines_missed": 44,
+          "percentage": 44.44444444444444
+        },
+        "main.py": {
+          "lines_total": 25,
+          "lines_covered": 11,
+          "lines_missed": 22,
+          "percentage": 44.0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T17:50:11.855385",
+      "total_coverage": 53.84615384615385,
+      "file_coverage": {
+        "test.py": {
+          "lines_total": 36,
+          "lines_covered": 16,
+          "lines_missed": 44,
+          "percentage": 44.44444444444444
+        },
+        "main.py": {
+          "lines_total": 25,
+          "lines_covered": 11,
+          "lines_missed": 22,
+          "percentage": 44.0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T17:50:56.157112",
+      "total_coverage": 53.84615384615385,
+      "file_coverage": {
+        "test.py": {
+          "lines_total": 36,
+          "lines_covered": 16,
+          "lines_missed": 44,
+          "percentage": 44.44444444444444
+        },
+        "main.py": {
+          "lines_total": 25,
+          "lines_covered": 11,
+          "lines_missed": 22,
+          "percentage": 44.0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T17:51:12.342392",
+      "total_coverage": 53.84615384615385,
+      "file_coverage": {
+        "test.py": {
+          "lines_total": 36,
+          "lines_covered": 16,
+          "lines_missed": 44,
+          "percentage": 44.44444444444444
+        },
+        "main.py": {
+          "lines_total": 25,
+          "lines_covered": 11,
+          "lines_missed": 22,
+          "percentage": 44.0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T17:51:38.990749",
+      "total_coverage": 44.61538461538461,
+      "file_coverage": {
+        "test.py": {
+          "lines_total": 36,
+          "lines_covered": 22,
+          "lines_missed": 56,
+          "percentage": 61.111111111111114
+        },
+        "main.py": {
+          "lines_total": 25,
+          "lines_covered": 11,
+          "lines_missed": 22,
+          "percentage": 44.0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T17:51:47.543248",
+      "total_coverage": 56.92307692307692,
+      "file_coverage": {
+        "main.py": {
+          "lines_total": 25,
+          "lines_covered": 11,
+          "lines_missed": 22,
+          "percentage": 44.0
+        },
+        "test.py": {
+          "lines_total": 36,
+          "lines_covered": 14,
+          "lines_missed": 41,
+          "percentage": 38.888888888888886
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T17:52:00.197192",
+      "total_coverage": 55.38461538461539,
+      "file_coverage": {
+        "main.py": {
+          "lines_total": 25,
+          "lines_covered": 11,
+          "lines_missed": 22,
+          "percentage": 44.0
+        },
+        "test.py": {
+          "lines_total": 36,
+          "lines_covered": 15,
+          "lines_missed": 41,
+          "percentage": 41.666666666666664
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T17:52:33.596416",
+      "total_coverage": 53.84615384615385,
+      "file_coverage": {
+        "test.py": {
+          "lines_total": 36,
+          "lines_covered": 16,
+          "lines_missed": 44,
+          "percentage": 44.44444444444444
+        },
+        "main.py": {
+          "lines_total": 25,
+          "lines_covered": 11,
+          "lines_missed": 22,
+          "percentage": 44.0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T17:52:54.418091",
+      "total_coverage": 53.84615384615385,
+      "file_coverage": {
+        "main.py": {
+          "lines_total": 25,
+          "lines_covered": 11,
+          "lines_missed": 22,
+          "percentage": 44.0
+        },
+        "test.py": {
+          "lines_total": 36,
+          "lines_covered": 16,
+          "lines_missed": 44,
+          "percentage": 44.44444444444444
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T17:53:11.816795",
+      "total_coverage": 53.84615384615385,
+      "file_coverage": {
+        "main.py": {
+          "lines_total": 25,
+          "lines_covered": 11,
+          "lines_missed": 22,
+          "percentage": 44.0
+        },
+        "test.py": {
+          "lines_total": 36,
+          "lines_covered": 16,
+          "lines_missed": 44,
+          "percentage": 44.44444444444444
+        }
+      }
+    }
+  ],
+  "task_times": [
+    {
+      "timestamp": "2025-04-13T17:15:11.924600",
+      "task": "Manual test writing (RED phase)",
+      "duration": 1.0
+    },
+    {
+      "timestamp": "2025-04-13T17:42:40.868413",
+      "task": "Manual test writing (RED phase)",
+      "duration": 41.0
+    }
+  ],
+  "constraint_assignments": {
+    "manual": [
+      3,
+      1,
+      2
+    ],
+    "ai_assisted": [
+      4,
+      0,
+      5
+    ],
+    "assigned_at": "2025-04-13T16:55:37"
+  }
+}
